@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "曲线拟合", "曲线拟合\曲线拟合.csproj", "{494430C0-7D20-4DDE-8DFB-E7C35C6A1627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494430C0-7D20-4DDE-8DFB-E7C35C6A1627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494430C0-7D20-4DDE-8DFB-E7C35C6A1627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494430C0-7D20-4DDE-8DFB-E7C35C6A1627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494430C0-7D20-4DDE-8DFB-E7C35C6A1627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1844AE97-C57C-48C0-841B-32198A12E0BF}
+	EndGlobalSection
+EndGlobal

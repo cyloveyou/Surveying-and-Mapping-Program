@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GNSS对流层", "GNSS对流层\GNSS对流层.csproj", "{0CE1AB7F-07BC-4319-A29C-63B34303121D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE1AB7F-07BC-4319-A29C-63B34303121D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE1AB7F-07BC-4319-A29C-63B34303121D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE1AB7F-07BC-4319-A29C-63B34303121D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE1AB7F-07BC-4319-A29C-63B34303121D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9F56450-A1CC-486A-8361-B70C154D633C}
+	EndGlobalSection
+EndGlobal
